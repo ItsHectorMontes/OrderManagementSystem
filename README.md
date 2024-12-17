@@ -115,7 +115,7 @@ Contributions are welcome! Feel free to fork the repository, submit issues, or c
 
 ## 🔗 **Contact**
 
-- **Your Name**  
+- **Hector Montes**  
 - **Email**: hector.montesp@gmail.com
 - **GitHub**: [ItsHectorMontes](https://github.com/ItsHectorMontes)  
 
