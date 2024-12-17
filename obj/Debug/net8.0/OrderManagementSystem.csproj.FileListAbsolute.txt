@@ -1,0 +1,14 @@
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\bin\Debug\net8.0\OrderManagementSystem.exe
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\bin\Debug\net8.0\OrderManagementSystem.deps.json
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\bin\Debug\net8.0\OrderManagementSystem.runtimeconfig.json
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\bin\Debug\net8.0\OrderManagementSystem.dll
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\bin\Debug\net8.0\OrderManagementSystem.pdb
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\obj\Debug\net8.0\OrderManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\obj\Debug\net8.0\OrderManagementSystem.AssemblyInfoInputs.cache
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\obj\Debug\net8.0\OrderManagementSystem.AssemblyInfo.cs
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\obj\Debug\net8.0\OrderManagementSystem.csproj.CoreCompileInputs.cache
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\obj\Debug\net8.0\OrderManagementSystem.dll
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\obj\Debug\net8.0\refint\OrderManagementSystem.dll
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\obj\Debug\net8.0\OrderManagementSystem.pdb
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\obj\Debug\net8.0\OrderManagementSystem.genruntimeconfig.cache
+D:\Desarrollo\CSharp\OrderManagementSystem\OrderManagementSystem\OrderManagementSystem\obj\Debug\net8.0\ref\OrderManagementSystem.dll
